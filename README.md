@@ -3,6 +3,8 @@
 
 This repo contains the current MP46 Master Palette by Ramifactor.
 
+![MP46](go here)
+
 Formats: 
 
 * Text

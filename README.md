@@ -3,7 +3,7 @@
 
 This repo contains the current MP46 Master Palette by Ramifactor.
 
-![MP46](https://github.com/Ramifactor/mp46-palette/blob/master/MP46/img/mp46.png?raw=true)
+![MP46](https://github.com/Ramifactor/mp46-palette/blob/master/MP46/img/mp46-scaled-10x.png?raw=true)
 
 Formats: 
 

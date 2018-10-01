@@ -1,7 +1,7 @@
 ; MP46 Palette by Ramifactor
-; Version 1.0 2018-06-17
+; Version 0.1 - last modified 2018-09-30
 
-; Format: Paint.NET 
+; Format: Paint.NET
 ; Default location: Documents\paint.net User Files\Palettes
 
 ;Row 1
